@@ -1,34 +1,29 @@
-# myFirstGit
+# Foobar
 
- <h5>Project title</h5>
+Foobar is a Python library for dealing with word pluralization.
 
-node project
+## Installation
 
- <h5>A project description<h5>
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-a project print hello world
+```bash
+pip install foobar
+```
 
- <h5>install instructions<h5>
+## Usage
 
-git clone
+```python
+import foobar
 
- <h5>run instructions<h5>
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
 
-node index.js
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Week1 Introduction to JavaScript and Nodejs
+Please make sure to update tests as appropriate.
 
-Week2 Code Version Control with Git and GitHub
-
-Week3 NodeJS as a Server
-
-Week4 Angular
-
-Week5 Data Persistence, Services and HTTP Request to a Server
-
-Week6 Reactive Programming and Sockets
-
-Week7
-Week8
-Week9
-Week10
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
