@@ -6,9 +6,6 @@ A node project
 
 A project can print out Hello world
 
-```bash
-pip install foobar
-```
 
 ## install instructions
 
@@ -17,10 +14,19 @@ git clone
 ```
 
 ## run instructions
-```bash
+```
 node index.js
 ```
 
 ## Course
-Week1
-Week2
+Week1 Introduction to JavaScript and Nodejs
+
+Week2 Code Version Control with Git and GitHub
+
+Week3 NodeJS as a Server
+
+Week4 Angular
+
+Week5 Data Persistence, Services and HTTP Request to a Server
+
+Week6 Reactive Programming and Sockets
