@@ -5,3 +5,4 @@ function myFunction(a, b) {
 var x = myFunction(5, 10); 
 
 console.log(x);
+//
